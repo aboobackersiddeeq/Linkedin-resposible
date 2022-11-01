@@ -1,0 +1,65 @@
+.discover,
+.people,
+.learning,
+.jobs {
+    height: 4em;
+    margin-top: -1em;
+}
+
+.linked {
+    color: blue;
+    font-size: 2em;
+    padding-top: .5em;
+}
+
+.join-now,
+.sign-in {
+    border-radius: 25px;
+    font-weight: bold;
+    background-color: white;
+    padding: .75em 1.2em;
+    border-color: rgb(83, 140, 210);
+}
+
+.join-text {
+    color: brown;
+    font-size: 3.5em;
+    line-height: 1.2;
+}
+
+.or {
+    position: relative;
+    left: 94%;
+    top: -2em;
+}
+.contentOne a{
+    text-decoration: none;
+}
+
+.search {
+    padding-top: .7em;
+}
+
+.contentOne {
+    padding-top: 2em;
+}
+
+#second {
+    background:rgb(240, 242, 243) ;
+
+}
+#first{
+    background:rgb(239 220 220 / 80%);
+}.text-see{
+    width: 60%;
+}.material-symbols-outlined{
+    float: right;
+}li{
+    list-style: none;
+}footer{
+    background: rgb(228, 227, 225);
+}.see{
+    color: brown;
+}.h1{
+   font-size: larger; 
+}
